@@ -56,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/plugins" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,10 +66,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ngo Minh Hai\Documents\GitHub\ltw-admin-group46" />
       <recent name="D:\Lap trinh web\GIT\ltw-admin-group46\assets\plugins" />
       <recent name="D:\Lap trinh web\GIT\ltw-admin-group46" />
       <recent name="D:\Lap trinh web\GIT\ltw-admin-group46\assets" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,6 +100,7 @@
       <workItem from="1605171994336" duration="2200000" />
       <workItem from="1605174975560" duration="5167000" />
       <workItem from="1605186372418" duration="2228000" />
+      <workItem from="1605201332471" duration="3487000" />
     </task>
     <servers />
   </component>
