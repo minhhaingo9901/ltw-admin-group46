@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ltw-client-group46" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,7 +46,7 @@
       <updated>1605120658623</updated>
       <workItem from="1605120660018" duration="3060000" />
       <workItem from="1605145287877" duration="2015000" />
-      <workItem from="1605150462731" duration="295000" />
+      <workItem from="1605150462731" duration="800000" />
     </task>
     <servers />
   </component>
@@ -54,9 +54,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1605146100057">
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1605151267497">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605146100057" />
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605151267497" />
   </component>
 </project>
