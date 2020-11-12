@@ -20,21 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70518923-8f75-48fb-a0e5-a0c0a3010e64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/back-to-top.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/summernote/dist/font/summernote291f.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/summernote/dist/font/summernote291f.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/summernote/dist/font/summernote291f.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/summernote/dist/font/summernoted41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/summernote/dist/summernote-bs4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/summernote/dist/summernote-bs4.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/app-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/app-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_add.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,21 +71,6 @@
       <recent name="D:\Lap trinh web\GIT\ltw-admin-group46\assets" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -114,6 +85,7 @@
       <workItem from="1605152721767" duration="48000" />
       <workItem from="1605171994336" duration="2200000" />
       <workItem from="1605174975560" duration="5167000" />
+      <workItem from="1605186372418" duration="2228000" />
     </task>
     <servers />
   </component>
