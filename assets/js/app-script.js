@@ -42,7 +42,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){ 
     $(window).on("scroll", function(){ 
-        if ($(this).scrollTop() > 50) {
+        if ($(this).scrollTop() > 300) { 
             $('.back-to-top').fadeIn(); 
         } else { 
             $('.back-to-top').fadeOut(); 
@@ -50,7 +50,7 @@ $(document).ready(function(){
     }); 
 
     $('.back-to-top').on("click", function(){ 
-        $("html, body").animate({ scrollTop: 0 }, 600);
+        $("html, body").animate({ scrollTop: 0 }, 600); 
         return false; 
     }); 
 });	   
