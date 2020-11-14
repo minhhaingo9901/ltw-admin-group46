@@ -21,6 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="70518923-8f75-48fb-a0e5-a0c0a3010e64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,19 +77,6 @@
       <recent name="D:\Lap trinh web\GIT\ltw-admin-group46\assets" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -101,6 +93,7 @@
       <workItem from="1605174975560" duration="5167000" />
       <workItem from="1605186372418" duration="2228000" />
       <workItem from="1605201332471" duration="3487000" />
+      <workItem from="1605332390873" duration="1966000" />
     </task>
     <servers />
   </component>
