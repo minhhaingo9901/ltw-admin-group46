@@ -169,7 +169,7 @@
                                         <td>Rau củ quả</td>
                                         <td>Sản phẩm mới</td>
                                         <td>
-                                            <button class="btn btn-danger"><a href="cate_list.html">Xóa</a></button>
+                                            <button class="btn btn-danger"><a href="cate_list.html" class="delete" data-confirm="Bạn có chắc muốn xóa chuyên mục này?">Xóa</a></button>
 
                                             <button class="btn btn-success"><a href="cate_edit.html">Sửa</a></button>
                                         </td>
@@ -179,7 +179,7 @@
                                         <td>Các loại hạt</td>
                                         <td>Sản phẩm mới</td>
                                         <td>
-                                            <button class="btn btn-danger"><a href="cate_list.html">Xóa</a></button>
+                                            <button class="btn btn-danger"><a href="cate_list.html" class="delete" data-confirm="Bạn có chắc muốn xóa chuyên mục này?">Xóa</a></button>
 
                                             <button class="btn btn-success"><a href="cate_edit.html">Sửa</a></button>
                                         </td>
@@ -189,7 +189,7 @@
                                         <td>Trái cây</td>
                                         <td>Sản phẩm mới</td>
                                         <td>
-                                            <button class="btn btn-danger"><a href="cate_list.html">Xóa</a></button>
+                                            <button class="btn btn-danger"><a href="cate_list.html" class="delete" data-confirm="Bạn có chắc muốn xóa chuyên mục này?">Xóa</a></button>
 
                                             <button class="btn btn-success"><a href="cate_edit.html">Sửa</a></button>
                                         </td>
@@ -199,7 +199,7 @@
                                         <td>Mật ong và tinh dầu</td>
                                         <td>Sản phẩm mới</td>
                                         <td>
-                                            <button class="btn btn-danger"><a href="cate_list.html">Xóa</a></button>
+                                            <button class="btn btn-danger"><a href="cate_list.html" class="delete" data-confirm="Bạn có chắc muốn xóa chuyên mục này?">Xóa</a></button>
 
                                             <button class="btn btn-success"><a href="cate_edit.html">Sửa</a></button>
                                         </td>
@@ -209,7 +209,7 @@
                                         <td>Sản phẩm mới</td>
                                         <td>Sản phẩm mới</td>
                                         <td>
-                                            <button class="btn btn-danger"><a href="cate_list.html">Xóa</a></button>
+                                            <button class="btn btn-danger"><a href="cate_list.html" class="delete" data-confirm="Bạn có chắc muốn xóa chuyên mục này?">Xóa</a></button>
 
                                             <button class="btn btn-success"><a href="cate_edit.html">Sửa</a></button>
                                         </td>
@@ -219,7 +219,8 @@
                                         <td>Sản phẩm giảm giá</td>
                                         <td>Sản phẩm mới</td>
                                         <td>
-                                            <button class="btn btn-danger"><a href="cate_list.html">Xóa</a></button>
+                                            <button class="btn btn-danger"><a href="cate_list.html" class="delete" data-confirm="Bạn có chắc muốn xóa chuyên mục này?">Xóa</a></button>
+
 
                                             <button class="btn btn-success"><a href="cate_edit.html">Sửa</a></button>
                                         </td>
@@ -297,6 +298,21 @@
 
 <!-- Index js -->
 <script src="assets/js/index.js"></script>
+<script>
+    var deleteLinks = document.querySelectorAll('.delete');
+
+    for (var i = 0; i < deleteLinks.length; i++) {
+        deleteLinks[i].addEventListener('click', function(event) {
+            event.preventDefault();
+
+            var choice = confirm(this.getAttribute('data-confirm'));
+
+            if (choice) {
+                window.location.href = this.getAttribute('href');
+            }
+        });
+    }
+</script>
 
 
 </body>
