@@ -21,11 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="70518923-8f75-48fb-a0e5-a0c0a3010e64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +91,8 @@
       <workItem from="1605186372418" duration="2228000" />
       <workItem from="1605201332471" duration="3487000" />
       <workItem from="1605332390873" duration="1966000" />
+      <workItem from="1605423585189" duration="162000" />
+      <workItem from="1605495387678" duration="2087000" />
     </task>
     <servers />
   </component>
@@ -117,10 +116,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1605175663448" />
-    <state x="488" y="160" key="FileChooserDialogImpl" timestamp="1605174051497">
+    <state x="488" y="160" key="FileChooserDialogImpl" timestamp="1605423655034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="160" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605174051497" />
+    <state x="488" y="160" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605423655034" />
     <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605152767635" />
   </component>
 </project>
